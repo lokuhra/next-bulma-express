@@ -1,0 +1,10 @@
+@import "../style/bulma/bulma.sass";
+
+.app {
+  height: 100vh;
+
+}
+.main {
+  min-height:calc(100vh - 3.25rem)
+}
+

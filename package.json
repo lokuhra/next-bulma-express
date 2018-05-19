@@ -1,0 +1,28 @@
+{
+  "name": "layout-component",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "classnames": "^2.2.5",
+    "express": "^4.16.3",
+    "next": "^6.0.2",
+    "nprogress": "^0.2.0",
+    "papaparse": "^4.4.0",
+    "react": "^16.3.2",
+    "react-bulma-components": "^1.4.3",
+    "react-burgers": "^1.0.4",
+    "react-dom": "^16.3.2",
+    "react-icons": "^2.2.7",
+    "react-responsive-modal": "^3.0.1",
+    "react-toastify": "^4.0.1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "1.12.1"
+  }
+}
